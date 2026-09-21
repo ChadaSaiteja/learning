@@ -1,2 +1,7 @@
 .env
 venv/
+__pycache__/
+*.pyc
+chroma_gemini_db/
+
+
