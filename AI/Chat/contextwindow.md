@@ -66,6 +66,6 @@ The summary evolves based on the purpose of the chat.
 
 **LangChain** provides `ConversationSummaryMemory` for this pattern.
 
-> *Summarized memory allows agents to remember **what matters**, not **everything that happened**.*
+ *Summarized memory allows agents to remember **what matters**, not **everything that happened**.*
 
 
