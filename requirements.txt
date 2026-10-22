@@ -1,0 +1,10 @@
+google-genai
+python-dotenv
+pinecone
+fastapi
+uvicorn
+pydantic
+numpy
+langchain-text-splitters
+langchain
+langchain-google-genai
